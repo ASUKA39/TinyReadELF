@@ -13,7 +13,7 @@
 使用方法：
 
 ```shell
-gcc -o gcc -o read_elf read_elf.c
+gcc -o read_elf read_elf.c
 ```
 
 ```shell
